@@ -1,2 +1,10 @@
 # 3xSummoner
-A message box generator using native Windows API, intended for use on Windows 3.1
+A message box generator that uses native Windows API, intended for use on Windows 3.1.
+
+In case you're wondering, this program works up to Windows 7, since it's the last Windows version to support Win16 applications.
+
+Sorry if the code is a bit messy, I'm just a beginner to C.
+
+# Requirements
+* [Borland Turbo C++ v4.5](https://winworldpc.com/product/turbo-c/45-win) to compile the entire code
+* and i think that's it
