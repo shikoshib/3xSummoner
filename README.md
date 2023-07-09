@@ -1,7 +1,7 @@
 # 3xSummoner
 A message box generator that uses native Windows API, intended for use on Windows 3.1.
 
-In case you're wondering, this program works up to Windows 7, since it's the last Windows version to support Win16 applications.
+In case you're wondering, this app works up to Windows 7, since it's the last Windows version to support Win16 applications.
 
 Sorry if the code is a bit messy, I'm just a beginner to C.
 
